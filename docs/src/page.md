@@ -1,0 +1,6 @@
+## Functions
+
+```@docs
+func(x)
+```
+
